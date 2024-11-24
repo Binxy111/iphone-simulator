@@ -179,7 +179,7 @@ $(function(){
       },
       {
         name: 'YouTube',
-        icon: '../Icons/YouTube.png',
+        icon: 'https://th.bing.com/th/id/R.f406fa5739bb6bcecdea3420f0a3ff03?rik=CETWDzmmiUzb5Q&pid=ImgRaw&r=0',
         notifications: 1,
         type: 'app',
         dynamic: false
