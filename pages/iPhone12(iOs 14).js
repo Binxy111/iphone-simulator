@@ -135,8 +135,8 @@ $(function(){
         dynamic: false
       },
       {
-        name: 'Google',
-        icon: '../Icons/Google.png',
+        name: 'Safari',
+        icon: 'https://logos-world.net/wp-content/uploads/2021/10/Safari-iOS-Logo-2007-2013.png',
         type: 'app',
         dynamic: false
       },
