@@ -4,7 +4,7 @@ $(function(){
     apps: [
       {
         name: 'Calendar',
-        icon: '../Icons/Calendar.png',
+        icon: 'https://icon-library.com/images/calendar-icon-ios/calendar-icon-ios-8.jpg',
         type: 'widgetFull',
         dynamic: true
       },
