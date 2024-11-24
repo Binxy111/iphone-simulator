@@ -10,7 +10,7 @@ $(function(){
       },
       {
         name: 'Weather',
-        icon: '../Icons/Weather.png',
+        icon: 'https://www.transparentpng.com/thumb/weather-report/iphone-weather-icon-png-30.png',
         type: 'app',
         dynamic: false
       },
