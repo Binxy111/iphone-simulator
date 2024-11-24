@@ -46,7 +46,7 @@ $(function(){
       },
       {
         name: 'Camera',
-        icon: '../Icons/Camera.png',
+        icon: 'https://th.bing.com/th/id/R.be4a80aee2ba9ad266e9eae586a7e7e7?rik=J3iPjLyIlOQdUQ&pid=ImgRaw&r=0',
         type: 'app',
         dynamic: false
       },
