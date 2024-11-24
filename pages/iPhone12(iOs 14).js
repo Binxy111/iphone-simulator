@@ -65,7 +65,7 @@ $(function(){
       },
       {
         name: 'Notes',
-        icon: '../Icons/Notes.png',
+        icon: 'https://th.bing.com/th/id/R.2e9a93b94a825f0d8da71230b8ef9453?rik=4VQyppdT3GlCwQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f_GBwb-MzTAVw%2fTIvxdiozNcI%2fAAAAAAAAADo%2fPQQEVfnsSqU%2fs1600%2fNotes.png&ehk=n1or2Psl3AJEwvlTC5wfvaqdqnEy2e4X3Ds5EmYrmSc%3d&risl=&pid=ImgRaw&r=0',
         type: 'app',
         dynamic: false
       },
