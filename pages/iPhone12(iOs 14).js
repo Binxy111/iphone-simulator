@@ -787,6 +787,33 @@ ${app.notifications ? `<div class="notification">${app.notifications}</div>` : '
       $('.messageApp').removeClass('hidden');
     }, 100)
   }
+	  }
+  // Music App
+  function Notes() {
+    if (!$('.notesApp').length) {
+      $('.mainScreen').append(`
+      <div class="notesApp hidden">
+	     <div class="appScreen">
+            <div class="contents">
+	            <iframe src="../apps/notes.html" style="width="280px" height="540px""></iframe>
+			</div>
+		 </div>
+      </div>
+      `
+      );
+      $('.notesApp').touchMov({
+        mov: 'y',
+        movUp: function (e) {
+          $(e.currentTarget).addClass('hidden');
+        }
+      });
+    }
+	
+	//Time out Function for Music App
+    setTimeout(function () {
+      $('.notesApp').removeClass('hidden');
+    }, 100)
+  }
   
   function renderUI(){
     paintApps(globalState.apps, $('.wrapperApps'), $('.wrapperDots'));
