@@ -582,7 +582,7 @@ ${app.notifications ? `<div class="notification">${app.notifications}</div>` : '
   }
   
   //Google App
-  function google() {
+  function safari() {
     if (!$('.googleApp').length) {
       $('.mainScreen').append(`
         <div class="googleApp hidden">
