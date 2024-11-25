@@ -28,7 +28,7 @@ $(function(){
       },
       {
         name: 'Clock',
-        icon: 'https://static.wikia.nocookie.net/logopedia/images/7/7d/IPhone-Clock-icon.jpg/revision/latest?cb=20130611000849https://static.wikia.nocookie.net/logopedia/images/7/7d/IPhone-Clock-icon.jpg/revision/latest?cb=20130611000849',
+        icon: 'https://static.wikia.nocookie.net/logopedia/images/7/7d/IPhone-Clock-icon.jpg/revision/latest?cb=20130611000849',
         type: 'app',
         dynamic: true
       },
